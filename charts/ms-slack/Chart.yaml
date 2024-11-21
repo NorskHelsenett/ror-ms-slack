@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ms-slack
+name: ror-ms-slack
 description: ROR micro service for slack messaging
 
 # A chart can be either an 'application' or a 'library' chart.
